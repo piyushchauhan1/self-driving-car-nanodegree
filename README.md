@@ -12,7 +12,7 @@ To be Added
 
 To be Added
 
-## Dependency
+## Dependencies
 
 To be Added 
  
