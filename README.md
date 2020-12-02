@@ -8,9 +8,6 @@ In this repository I will share the **source code** of all the projects of **[Ud
 
 To be Added
 
-## Table of Contents
-
-To be Added
 
 ## Dependencies
 
